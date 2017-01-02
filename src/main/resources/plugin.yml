@@ -1,0 +1,7 @@
+name: GamemodeSelector
+main: net.xornick.gmselector.GmSelector
+version: 1.0
+author: XorNick
+commands:
+    selector:
+        description: Opens the gamemode selector
